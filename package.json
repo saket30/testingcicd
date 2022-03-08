@@ -8,6 +8,7 @@
   },
   "repository": {
     "type": "git",
+    "start": "node server"
     "url": "git+https://github.com/saket30/testingcicd.git"
   },
   "author": "",
